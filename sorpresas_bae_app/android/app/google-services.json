@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659822508657",
+    "project_id": "sorpresas-bae",
+    "storage_bucket": "sorpresas-bae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659822508657:android:c40dff6edee3a2d83ff9d0",
+        "android_client_info": {
+          "package_name": "com.example.sorpresas_bae_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALS-2qFa8ST-CeTTkvnP-DZBoobTUqbp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
